@@ -1,0 +1,6 @@
+com\simplecalculator\exception\CalculatorException.class
+com\simplecalculator\service\Calculator$1.class
+com\simplecalculator\service\Calculator.class
+com\simplecalculator\model\Operation.class
+com\simplecalculator\controller\CalcController.class
+com\simplecalculator\controller\CalcController$OutputKeys.class
